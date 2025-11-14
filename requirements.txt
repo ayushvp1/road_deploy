@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+pillow
+numpy
+torch
+torchvision
+opencv-python-headless
